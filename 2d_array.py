@@ -5,7 +5,7 @@ def main():
     num_rows = 4
     num_cols = 7
 
-    t = []
+    ft = []
     for i in range(num_rows):
         t.append([0 for j in range(num_cols)])
 
